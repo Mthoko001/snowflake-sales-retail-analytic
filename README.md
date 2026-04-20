@@ -59,6 +59,4 @@ Data quality checks are explicitly implemented in the Silver layer and include:
 
 These checks ensure that only trusted, analytics-ready data reaches the Gold layer.
 
----
 
-## Repository Structure
